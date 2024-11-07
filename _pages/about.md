@@ -11,4 +11,4 @@ Hi, I'm  **Xinhe Niu**, a senior undergraduate from [Shenzhen University](https:
 My research interests include **Spatial-Temporal mining, Time-series mining, and Federated Learning**.
 
 
-[Email](Jack001456@gmail.com) / [Github](https://github.com/XinheNiu)
+[Email](Jack1299952745@gmail.com) / [Github](https://github.com/XinheNiu)
